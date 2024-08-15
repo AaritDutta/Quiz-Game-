@@ -10,9 +10,8 @@ Python: The core language used for implementing game logic and functionality.
 
 Installation:
 Clone this repository: git clone 
-Navigate into the project directory: cd python-quiz-game
-Install the necessary dependencies: pip install -r requirements.txt
-Run the game: python main.py
+Navigate into the project directory and open  Game.py
+Run the game: python Game.py
 
 
 Contributing:
